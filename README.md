@@ -1,90 +1,142 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shalem%20B.&fontSize=40&fontColor=00F5FF&animation=fadeIn&fontAlignY=35"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F5FF&center=true&vCenter=true&width=700&lines=Robotics+%26+Autonomous+Systems+Research;Perception+%7C+SLAM+%7C+Control;ROS2+%7C+Computer+Vision+%7C+AI;Building+Intelligent+Machines"/>
-</p>
-<!-- ================== Hero Section ================== -->
-<h1 align="center">
-  🤖 Shalem Bakth Singh
-</h1>
+<!-- ======================= FUTURISTIC HEADER ======================= -->
 
 <p align="center">
-  Robotics Researcher | Autonomous Systems | AI & Control
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Shalem%20B.&fontSize=45&fontColor=00F5FF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <strong>Exploring the intersection of perception, control & autonomy.</strong><br>
-  Focused on robotics research, SLAM, vision-based systems, and intelligent agents.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F5FF&center=true&vCenter=true&width=750&lines=Robotics+%26+Autonomous+Systems+Researcher;Perception+%7C+SLAM+%7C+Control;ROS2+%7C+Computer+Vision+%7C+AI;Engineering+Intelligent+Machines"/>
 </p>
 
 ---
 
-<!-- ================== Badges ================== -->
+## 🖥️ System Boot Sequence
+
+```bash
+> Initializing Robotics Research Environment...
+> Loading ROS2 Humble Stack...
+> Activating Perception Modules...
+> Neural Networks Compiled.
+> SLAM Engine Running.
+> Autonomous System Online.
+```
+
+---
+
+## 🤖 About Me
+
+I am a **Robotics & Autonomous Systems Researcher** focused on building intelligent robotic systems capable of perception, localization, and real-time decision making.
+
+My work lies at the intersection of:
+
+- Autonomous Navigation  
+- Vision-Based Robotics  
+- SLAM & Mapping Systems  
+- Learning-Based Control  
+- Real-Time AI Systems  
+
+---
+
+## ⚙️ Core Technical Stack
+
+```yaml
+Languages:
+  - Python
+  - C++
+  - Bash
+
+Robotics:
+  - ROS2 (Humble)
+  - TF Transform Systems
+  - Robot Frame Management
+
+Perception:
+  - OpenCV
+  - ArUco Detection
+  - Occupancy Grid Analysis
+
+AI / ML:
+  - PyTorch
+  - Deep Learning
+  - Embedding Systems
+
+Systems:
+  - Linux
+  - Git
+  - Streamlit
+```
+
+---
+
+## 🔬 Research Matrix
+
+| Domain | Focus Area |
+|--------|------------|
+| 🤖 Robotics | Autonomous Systems Architecture |
+| 🗺️ Mapping | SLAM & Shelf Detection via Grid Clustering |
+| 📷 Vision | ArUco-based Object Localization |
+| 🧠 AI | Deep Learning for Robotic Perception |
+| 🎯 Control | Real-Time Decision Pipelines |
+
+---
+
+## 🚀 Featured Research Projects
+
+### 🤖 Autonomous Warehouse Robotics System
+- ROS2-based perception stack  
+- ArUco marker detection with TF broadcasting  
+- Object frame generation (`obj_<marker_id>`)  
+- Real-time transform publishing  
+
+---
+
+### 🗺️ Intelligent SLAM Shelf Detection
+- Occupancy grid clustering  
+- Center-of-mass & orientation extraction  
+- Structural filtering (1.35m x 0.55m shelf dimensions)  
+- Autonomous revisit capability  
+
+---
+
+### 🎤 Real-Time Speaker Recognition System
+- Deep embedding-based identification  
+- Dynamic voice registration  
+- Streamlit interface  
+- Diarization + clustering  
+
+---
+
+## 📊 Neural Activity
+
 <p align="center">
-  <!-- Tech Stack -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-black?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alexprinse&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexprinse&theme=vision-friendly-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🧪 Research Interests
+## 🧬 Research Direction
 
-- 📡 **Autonomous Systems & Robotics Research**
-- 🧠 **Perception, SLAM & Sensor Fusion**
-- 🕹️ **Robot Control & Motion Planning**
-- 📷 **Computer Vision for Robotics**
-- 🤖 **Sim2Real Transfer & Evaluation**
-- 🧬 **Intelligent Agents & Learning-based Control**
+Currently exploring:
 
----
-
-## 🛠️ Projects & Contributions
-
-> *Highlights of my work in robotics and intelligent systems*
-
-### 📍 Robotics Research & Systems
-- **SLAM Based Mapping & Shelf Detection**  
-  Intelligent occupancy grid analysis with structural reasoning.
-  
-- **Vision + ROS2 Autonomous Stack**  
-  Real-world perception pipeline for robot frame transforms & object detection.
-
-### 🔬 AI & Controls
-- **Neural Policy Modules**  
-  Hybrid control & learning frameworks for real-time robotic decision making.
-
-- **Deep Vision Systems**  
-  Real-time inference and perception for robotics platforms.
+- Multi-Sensor Fusion  
+- Learning-Based Motion Planning  
+- Perception-Driven Control Systems  
+- Sim2Real Robotics Transfer  
 
 ---
 
-## 📊 GitHub Stats
+## 📡 Connect
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alexprinse&show_icons=true&theme=tokyonight" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexprinse&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Get in Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shalembakthsingh">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL_HERE">Email</a>
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="mailto:your_email_here">Email</a>
 </p>
 
 ---
 
 <p align="center">
   <em>
-    “The best robots are a blend of perception, reasoning & intelligent control.”
+    "Robotics is the convergence of perception, intelligence, and control."
   </em>
 </p>
