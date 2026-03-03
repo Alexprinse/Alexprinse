@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Shalem%20B.&fontSize=40&fontColor=00F5FF&animation=fadeIn&fontAlignY=35"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F5FF&center=true&vCenter=true&width=700&lines=Robotics+%26+Autonomous+Systems+Research;Perception+%7C+SLAM+%7C+Control;ROS2+%7C+Computer+Vision+%7C+AI;Building+Intelligent+Machines"/>
+</p>
 <!-- ================== Hero Section ================== -->
 <h1 align="center">
   🤖 Shalem Bakth Singh
