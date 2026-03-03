@@ -129,8 +129,8 @@ Currently exploring:
 ## 📡 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="mailto:your_email_here">Email</a>
+  <a href="https://www.linkedin.com/in/shalembakthsingh/">LinkedIn</a> •
+  <a href="mailto:princebadampudi@gmail.com">Email</a>
 </p>
 
 ---
