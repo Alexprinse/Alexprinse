@@ -1,16 +1,84 @@
-## Hi there 👋
+<!-- ================== Hero Section ================== -->
+<h1 align="center">
+  🤖 Shalem Bakth Singh
+</h1>
 
-<!--
-**Alexprinse/Alexprinse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Robotics Researcher | Autonomous Systems | AI & Control
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Exploring the intersection of perception, control & autonomy.</strong><br>
+  Focused on robotics research, SLAM, vision-based systems, and intelligent agents.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- ================== Badges ================== -->
+<p align="center">
+  <!-- Tech Stack -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-black?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🧪 Research Interests
+
+- 📡 **Autonomous Systems & Robotics Research**
+- 🧠 **Perception, SLAM & Sensor Fusion**
+- 🕹️ **Robot Control & Motion Planning**
+- 📷 **Computer Vision for Robotics**
+- 🤖 **Sim2Real Transfer & Evaluation**
+- 🧬 **Intelligent Agents & Learning-based Control**
+
+---
+
+## 🛠️ Projects & Contributions
+
+> *Highlights of my work in robotics and intelligent systems*
+
+### 📍 Robotics Research & Systems
+- **SLAM Based Mapping & Shelf Detection**  
+  Intelligent occupancy grid analysis with structural reasoning.
+  
+- **Vision + ROS2 Autonomous Stack**  
+  Real-world perception pipeline for robot frame transforms & object detection.
+
+### 🔬 AI & Controls
+- **Neural Policy Modules**  
+  Hybrid control & learning frameworks for real-time robotic decision making.
+
+- **Deep Vision Systems**  
+  Real-time inference and perception for robotics platforms.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Alexprinse&show_icons=true&theme=tokyonight" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexprinse&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shalembakthsingh">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL_HERE">Email</a>
+</p>
+
+---
+
+<p align="center">
+  <em>
+    “The best robots are a blend of perception, reasoning & intelligent control.”
+  </em>
+</p>
